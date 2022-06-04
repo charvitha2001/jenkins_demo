@@ -2,9 +2,9 @@
 
 echo "sample shell script that will return the difference between two numbers"
 
-Sum=$(($First_Number+$Second_Number))
+SUM=$(($First_Number+$Second_Number))
 
-echo "$Sum"
+echo "$SUM"
 echo "Script is executed "
 
 echo "text comit 9"
